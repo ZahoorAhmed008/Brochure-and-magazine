@@ -9,10 +9,12 @@ Our tri-fold brochure design offers a captivating layout for presenting informat
 The magazine layout design provides a dynamic and engaging platform for showcasing content across multiple pages. From striking cover designs to well-organized article layouts, our design emphasizes readability and visual appeal to captivate readers' attention.
 
 ## Tools Used
-# Figma: Utilized for designing and prototyping the tri-fold brochure and magazine layouts.
-# Adobe XD: Used for refining the designs, adding interactions, and creating high-fidelity prototypes for print materials.
+# Figma:
+Utilized for designing and prototyping the tri-fold brochure and magazine layouts.
+# Adobe XD:
+Used for refining the designs, adding interactions, and creating high-fidelity prototypes for print materials.
 
-# Figma link of Tri-Fold Brochure and Magazine UI/UX Design
+## Figma link of Tri-Fold Brochure and Magazine UI/UX Design
 ### Tri-Fold Brochure
 https://www.figma.com/design/doDvK7LNsqXhKH6dEkigeC/Tri-fold-brochure?node-id=0%3A1&t=OEfux6Q09UsAnu2O-1
 ### Magazine
